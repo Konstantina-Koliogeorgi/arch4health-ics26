@@ -41,7 +41,7 @@
 ![Arch4Health Logo](arch4health-logo3.png){: width="700px" }
 
 <h3 style="color: #7F7FFF;font-style: italic;">
-  A full-day workshop exploring the key computational challenges in health-related applications <br> 
+  A half-day workshop exploring the key computational challenges in health-related applications <br> 
   and the vital role of computer architecture in overcoming them to advance healthcare
 </h3>
 
@@ -61,7 +61,7 @@
 
 ## Call for Presentations {#call-for-presentations}
 
-This workshop consists of talks on the general topic of computing system designs for healthcare applications and new trends and bottlenecks in data-intensive healthcare applications. There are a limited number of slots for talks. If you are interested in delivering a talk on related topics, **please submit your talk's title and extended abstract via <a href="https://forms.gle/8ZmbDWH6szNQBchE8">this Google Form</a>**. You may either paste the abstract directly into the form or upload a two-page PDF prepared in any standard conference template. Each submission must include the talk title, all authors' names, and their affiliations.
+This workshop consists of talks on the general topic of computing system designs for healthcare applications and new trends and bottlenecks in data-intensive healthcare applications. There are a limited number of slots for talks. If you are interested in delivering a talk on related topics, **please submit your talk's title and extended abstract via <a href="https://forms.gle/WCoT3T9b9C1cheAC7">this Google Form</a>**. You may either paste the abstract directly into the form or upload a two-page PDF prepared in any standard conference template. Each submission must include the talk title, all authors' names, and their affiliations.
 
 We invite abstract submissions related to (but not limited to) the following topics:
 
@@ -90,8 +90,8 @@ We invite abstract submissions related to (but not limited to) the following top
 
 ## Key Dates {#key-dates}
 
-- **Extended Abstract Submission Deadline:** 20 April 2026
-- **Notification:** 27 April 2026
+- **Extended Abstract Submission Deadline:** 24 April 2026
+- **Notification:** 30 April 2026
 - **Workshop Date:** 6th July 2026
 
 ## Organizers {#organizers}
