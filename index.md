@@ -61,7 +61,7 @@
 
 ## Call for Presentations {#call-for-presentations}
 
-This workshop consists of talks on the general topic of computing system designs for healthcare applications and new trends and bottlenecks in data-intensive healthcare applications. There are a limited number of slots for talks. If you are interested in delivering a talk on related topics, **please submit your talk's title and extended abstract via <a href="https://forms.gle/WCoT3T9b9C1cheAC7">this Google Form</a>**. You may either paste the abstract directly into the form or upload a two-page PDF prepared in any standard conference template. Each submission must include the talk title, all authors' names, and their affiliations.
+This workshop consists of talks on the general topic of computing system designs for healthcare applications and new trends and bottlenecks in data-intensive healthcare applications. There are a limited number of slots for talks. If you are interested in delivering a talk on related topics, **please submit your talk's title and extended abstract via <a href="https://forms.gle/WCoT3T9b9C1cheAC7">this Google Form</a>**. You may either submit an extended abstract or upload a short paper (maximum 4 pages) prepared in any standard conference template. Each submission must include the talk title, all authors' names, and their affiliations. Accepted short papers will be included in the ACM Proceedings.
 
 We invite abstract submissions related to (but not limited to) the following topics:
 
