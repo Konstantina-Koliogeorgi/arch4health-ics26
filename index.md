@@ -41,7 +41,7 @@
 ![Arch4Health Logo](arch4health-logo3.png){: width="700px" }
 
 <h3 style="color: #7F7FFF;font-style: italic;">
-  A half-day workshop exploring the key computational challenges in health-related applications <br> 
+  A full-day workshop exploring the key computational challenges in health-related applications <br> 
   and the vital role of computer architecture in overcoming them to advance healthcare
 </h3>
 
