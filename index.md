@@ -215,7 +215,115 @@ We invite abstract submissions related to (but not limited to) the following top
   }
 </style>
 
+<tr>
+  <td>9:00-9:15</td>
+  <td>
+    Nika Mansouri Ghiasi<br>
+    Konstantina Koliogeorgi<br>
+    Onur Mutlu<br>
+    (ETH Zurich)
+  </td>
+  <td>
+    Welcome Notes<br><br>
+    Architecture for Health: Exploring Computational Challenges in Health-Related Applications<br>
+    and How Computer Architecture Can Address Them
+  </td>
+</tr>
 
+<tr>
+  <td>9:15 - 10.00</td>
+  <td>Onur</td>
+  <td>Accelerating Genome Analysis</td>
+</tr>
+
+<tr>
+  <td>10-10:30</td>
+  <td>Max Doblas</td>
+  <td>From Algorithm to Silicon Hardware-Software Co-Design of a RISC-V Edit Distance Accelerator for Sequence Alignment</td>
+</tr>
+
+<tr class="break-row">
+  <td colspan="3">10:30-11:00 &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Coffee Break</td>
+</tr>
+
+<tr>
+  <td>11-11:45</td>
+  <td>Krishna Kant</td>
+  <td>Chronic Disease Management Networks</td>
+</tr>
+
+<tr>
+  <td>11:45-12:30</td>
+  <td>Hasindu</td>
+  <td>Scalable, Portable and Live Nanopore Sequence Analysis</td>
+</tr>
+
+<tr class="break-row">
+  <td colspan="3">12.30-13:30 &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Lunch Break</td>
+</tr>
+
+<tr>
+  <td>13:30-14:15</td>
+  <td>Bertil Schmidt</td>
+  <td>Addressing Key Challenges in Accelerated Computing for Omics Pipelines</td>
+</tr>
+
+<tr>
+  <td>14:15-14:40</td>
+  <td>Zeynep Akcil</td>
+  <td>POACHA: Partial Order Alignment Computation Hardware Acceleration</td>
+</tr>
+
+<tr>
+  <td>14:40-15:00</td>
+  <td>Eirini</td>
+  <td></td>
+</tr>
+
+<tr class="break-row">
+  <td colspan="3">15.00-15.30 &nbsp;&nbsp;&mdash;&nbsp;&nbsp; Coffee Break</td>
+</tr>
+
+<tr>
+  <td>15:30-15:50</td>
+  <td>Eric Santigosa-Lepe</td>
+  <td>Sequence Alignment Acceleration on the Edge Using an FPGA MPSoC</td>
+</tr>
+
+<tr>
+  <td>15:50-16:10</td>
+  <td>Berkan Şahin</td>
+  <td>In-depth data movement characterization of DNA read mapping algorithms</td>
+</tr>
+
+<tr>
+  <td>16:10-16:25</td>
+  <td>Raghu Shankar</td>
+  <td>Genomics: Scale-up and Scale-out with System in a Package as-a-Platform</td>
+</tr>
+
+<tr>
+  <td>16:25-16:40</td>
+  <td>Nika</td>
+  <td>Storage-Centric System Designs for Enabling Fast, Efficient, and Low-Cost Genomic and Metagenomic Analyses</td>
+</tr>
+
+<tr>
+  <td>16:40-16:55</td>
+  <td>Konstantina</td>
+  <td>MARS</td>
+</tr>
+
+<tr>
+  <td>16:55-17:00</td>
+  <td>
+    Nika Mansouri Ghiasi<br>
+    Konstantina Koliogeorgi<br>
+    Onur Mutlu<br>
+    (ETH Zurich)
+  </td>
+  <td>Closing Remarks</td>
+</tr>
 
 ## Previous Iteration {#previous-iteration}
 
