@@ -289,7 +289,7 @@ We invite abstract submissions related to (but not limited to) the following top
 
   <tr>
     <td>14:40 - 15:00</td>
-    <td>Eirini</td>
+    <td>Eirini Tzermpou</td>
     <td></td>
   </tr>
 
