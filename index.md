@@ -267,7 +267,7 @@ We invite abstract submissions related to (but not limited to) the following top
 
   <tr>
     <td>11:45 - 12:30</td>
-    <td>Hasindu</td>
+    <td>Hasindu Gamaarachchi</td>
     <td>Scalable, Portable and Live Nanopore Sequence Analysis</td>
   </tr>
 
@@ -324,7 +324,7 @@ We invite abstract submissions related to (but not limited to) the following top
   <tr>
     <td>16:40 - 16:55</td>
     <td>Konstantina Koliogeorgi</td>
-    <td>MARS</td>
+    <td>MARS: Processing-In-Memory Acceleration of Raw Signal Genome Analysis Inside the Storage Subsystem</td>
   </tr>
 
   <tr>
