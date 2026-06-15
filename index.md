@@ -245,13 +245,15 @@ We invite abstract submissions related to (but not limited to) the following top
 
   <tr>
     <td>9:15 - 10:00</td>
-    <td>Onur Mutlu</td>
+    <td>Onur Mutlu<br>
+      (ETH Zurich)</td>
     <td>Accelerating Genome Analysis</td>
   </tr>
 
   <tr>
     <td>10:00 - 10:30</td>
-    <td>Max Doblas</td>
+    <td>Max Doblas<br>
+      (Barcelona Supercomputing Center)</td>
     <td>From Algorithm to Silicon Hardware-Software Co-Design of a RISC-V Edit Distance Accelerator for Sequence Alignment</td>
   </tr>
 
@@ -261,13 +263,15 @@ We invite abstract submissions related to (but not limited to) the following top
 
   <tr>
     <td>11:00 - 11:45</td>
-    <td>Krishna Kant</td>
+    <td>Krishna Kant<br>
+      (Temple University)</td>
     <td>Chronic Disease Management Networks</td>
   </tr>
 
   <tr>
     <td>11:45 - 12:30</td>
-    <td>Hasindu Gamaarachchi</td>
+    <td>Hasindu Gamaarachchi<br>
+      (School of Computer Science and Engineering, UNSW Sydney)</td>
     <td>Scalable, Portable and Live Nanopore Sequence Analysis</td>
   </tr>
 
@@ -277,20 +281,23 @@ We invite abstract submissions related to (but not limited to) the following top
 
   <tr>
     <td>13:30 - 14:15</td>
-    <td>Bertil Schmidt</td>
+    <td>Bertil Schmidt<br>
+      (JGU Mainz)</td>
     <td>Addressing Key Challenges in Accelerated Computing for Omics Pipelines</td>
   </tr>
 
   <tr>
     <td>14:15 - 14:40</td>
-    <td>Zeynep Akcil</td>
+    <td>Zeynep Akcil<br>
+      (Bilkent University)</td>
     <td>POACHA: Partial Order Alignment Computation Hardware Acceleration</td>
   </tr>
 
   <tr>
     <td>14:40 - 15:00</td>
-    <td>Eirini Tzermpou</td>
-    <td></td>
+    <td>Eirini Tzermpou<br>
+      (ETH Zurich)</td>
+    <td>A High-Performance and Low-Cost Algorithm-Architecture Co-Design for Graph-based Genome Analysis</td>
   </tr>
 
   <tr class="break-row">
@@ -299,13 +306,15 @@ We invite abstract submissions related to (but not limited to) the following top
 
   <tr>
     <td>15:30 - 15:50</td>
-    <td>Eric Santigosa-Lepe</td>
+    <td>Eric Santigosa-Lepe<br>
+      (Barcelona Supercomputing Center)</td>
     <td>Sequence Alignment Acceleration on the Edge Using an FPGA MPSoC</td>
   </tr>
 
   <tr>
     <td>15:50 - 16:10</td>
-    <td>Berkan Şahin</td>
+    <td>Berkan Şahin<br>
+      (Bilkent University)</td>
     <td>In-depth data movement characterization of DNA read mapping algorithms</td>
   </tr>
 
@@ -317,13 +326,15 @@ We invite abstract submissions related to (but not limited to) the following top
 
   <tr>
     <td>16:25 - 16:40</td>
-    <td>Nika Mansouri Ghiasi</td>
+    <td>Nika Mansouri Ghiasi<br>
+      (ETH Zurich)</td>
     <td>Storage-Centric System Designs for Enabling Fast, Efficient, and Low-Cost Genomic and Metagenomic Analyses</td>
   </tr>
 
   <tr>
     <td>16:40 - 16:55</td>
-    <td>Konstantina Koliogeorgi</td>
+    <td>Konstantina Koliogeorgi<br>
+      (ETH Zurich)</td>
     <td>MARS: Processing-In-Memory Acceleration of Raw Signal Genome Analysis Inside the Storage Subsystem</td>
   </tr>
 
