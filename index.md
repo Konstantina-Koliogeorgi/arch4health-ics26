@@ -288,7 +288,7 @@ We invite abstract submissions related to (but not limited to) the following top
 
   <tr>
     <td>14:15 - 14:40</td>
-    <td>Zeynep Akcil<br>
+    <td>Can Alkan<br>
       (Bilkent University)</td>
     <td>POACHA: Partial Order Alignment Computation Hardware Acceleration</td>
   </tr>
@@ -320,7 +320,8 @@ We invite abstract submissions related to (but not limited to) the following top
 
   <tr>
     <td>16:10 - 16:25</td>
-    <td>Raghu Shankar</td>
+    <td>Raghu Shankar<br>
+    (Tech Entrepreneur)</td>
     <td>Genomics: Scale-up and Scale-out with System in a Package as-a-Platform</td>
   </tr>
 
