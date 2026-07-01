@@ -288,7 +288,7 @@ We invite abstract submissions related to (but not limited to) the following top
 
   <tr>
     <td>14:15 - 14:40</td>
-    <td>Can Alkan<br>
+    <td>Zeynep Akcil, Can Alkan<br>
       (Bilkent University)</td>
     <td>POACHA: Partial Order Alignment Computation Hardware Acceleration</td>
   </tr>
