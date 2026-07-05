@@ -245,9 +245,9 @@ We invite abstract submissions related to (but not limited to) the following top
 
   <tr>
     <td>9:15 - 10:00</td>
-    <td>Onur Mutlu<br>
-      (ETH Zurich)</td>
-    <td>Accelerating Genome Analysis</td>
+    <td>Hasindu Gamaarachchi<br>
+      (School of Computer Science and Engineering, UNSW Sydney)</td>
+    <td>Scalable, Portable and Live Nanopore Sequence Analysis</td>
   </tr>
 
   <tr>
@@ -270,9 +270,9 @@ We invite abstract submissions related to (but not limited to) the following top
 
   <tr>
     <td>11:45 - 12:30</td>
-    <td>Hasindu Gamaarachchi<br>
-      (School of Computer Science and Engineering, UNSW Sydney)</td>
-    <td>Scalable, Portable and Live Nanopore Sequence Analysis</td>
+    <td>Onur Mutlu<br>
+      (ETH Zurich)</td>
+    <td>Accelerating Genome Analysis</td>
   </tr>
 
   <tr class="break-row">
