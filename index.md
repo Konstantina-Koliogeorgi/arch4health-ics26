@@ -58,7 +58,17 @@
 
 **<span style="color: #7F7FFF;">Fostering Diverse and Cross-Disciplinary Discussions</span>.** Since cross-disciplinary discussions are crucial for better identifying challenges in real-world health-related applications, we aim to foster open discussions and cooperation between researchers with diverse backgrounds (i.e., from both computer architecture and health sciences communities, industry, and academia).
 
-Join us live here: https://youtube.com/live/0ewCWTPIv4I
+Join us live here: 
+
+<div style="max-width: 560px; aspect-ratio: 16 / 9; margin: 0.75rem 0;">
+  <iframe
+    src="https://www.youtube.com/embed/0ewCWTPIv4I"
+    title="Arch4Health @ ICS 2026 — Livestream"
+    style="width: 100%; height: 100%; border: 0; border-radius: 6px;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
 
 
 ## Call for Presentations {#call-for-presentations}
