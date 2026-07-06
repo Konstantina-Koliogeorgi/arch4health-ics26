@@ -58,6 +58,8 @@
 
 **<span style="color: #7F7FFF;">Fostering Diverse and Cross-Disciplinary Discussions</span>.** Since cross-disciplinary discussions are crucial for better identifying challenges in real-world health-related applications, we aim to foster open discussions and cooperation between researchers with diverse backgrounds (i.e., from both computer architecture and health sciences communities, industry, and academia).
 
+Join us live here: https://youtube.com/live/0ewCWTPIv4I
+
 
 ## Call for Presentations {#call-for-presentations}
 
